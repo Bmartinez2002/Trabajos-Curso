@@ -1,0 +1,18 @@
+Prueba de rutas GET y POST /reportes
+
+Se envio una peticion POST a http://localhost:3000/reportes con:
+{ "tipo": "Infraestructura", "descripcion": "Dano en alumbrado publico" }
+
+El servidor respondio:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": { "id": 1, "tipo": "Infraestructura", "descripcion": "Dano en alumbrado publico" }
+}
+
+Luego se consulto GET http://localhost:3000/reportes y el servidor devolvio:
+[
+  { "id": 1, "tipo": "Infraestructura", "descripcion": "Dano en alumbrado publico" }
+]
+
+El array en memoria guarda los reportes mientras el servidor esta activo. Al reiniciarlo
+la lista vuelve a estar vacia porque aun no se usa una base de datos.

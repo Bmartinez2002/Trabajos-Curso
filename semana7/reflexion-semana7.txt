@@ -1,0 +1,18 @@
+Reflexion Semana 7
+
+Que las comunidades puedan registrar y consultar reportes en una plataforma tecnologica
+es esencial para mejorar la organizacion y la participacion ciudadana. Sin un sistema que
+permita guardar incidencias de forma ordenada, la informacion se pierde o queda dispersa
+en mensajes informales que nadie puede revisar ni dar seguimiento.
+
+Cuando una comunidad tiene acceso a una API que registra reportes con tipo y descripcion,
+cualquier persona puede enviar su incidencia desde un dispositivo y el sistema la guarda
+de inmediato. Esto permite que los lideres comunitarios o autoridades consulten la lista
+de problemas reportados y prioricen las soluciones mas urgentes.
+
+Ademas, tener un historial de reportes ayuda a identificar patrones. Por ejemplo, si
+muchos ciudadanos reportan el mismo tipo de problema, queda evidencia clara de que existe
+una necesidad colectiva que debe atenderse. Esto fortalece los procesos de toma de
+decision y hace que la participacion ciudadana sea mas efectiva y visible. Aprender a
+construir estos sistemas desde cero con Node.js y Express es un paso concreto hacia la
+tecnologia al servicio de la comunidad.
