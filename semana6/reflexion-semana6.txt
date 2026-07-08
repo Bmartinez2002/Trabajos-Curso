@@ -1,0 +1,17 @@
+Reflexion Semana 6
+
+Que las plataformas tecnologicas puedan recibir informacion de los ciudadanos de forma
+estructurada es fundamental para construir sistemas de participacion utiles y eficientes.
+Cuando los datos llegan organizados en formato JSON, el servidor puede procesarlos y
+responder de manera coherente sin ambiguedades, lo que reduce errores y facilita el
+analisis posterior.
+
+En una comunidad, un sistema estructurado de reportes permite que las autoridades reciban
+informacion necesaria para actuar con rapidez. Si muchos ciudadanos reportan el mismo
+tipo de incidencia, el sistema puede detectar patrones y priorizar soluciones. Sin una
+estructura clara, los reportes serian dificiles de clasificar o comparar.
+
+Ademas, recibir datos de forma ordenada genera confianza en los usuarios porque pueden
+ver que el sistema entiende y confirma su reporte. Esto fomenta la participacion ciudadana,
+ya que las personas sienten que su voz es escuchada y registrada formalmente. La estructura
+en el intercambio de informacion es la base de cualquier plataforma comunitaria eficaz.

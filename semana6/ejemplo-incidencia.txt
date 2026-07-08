@@ -1,0 +1,15 @@
+Ejemplo de incidencia comunitaria
+
+JSON enviado por un ciudadano a POST /incidencia:
+
+{
+  "tipo": "Iluminacion publica",
+  "descripcion": "Una lampara del parque no funciona desde hace varios dias, generando inseguridad en el sector durante las noches."
+}
+
+Respuesta del servidor:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminacion publica",
+  "descripcion": "Una lampara del parque no funciona desde hace varios dias, generando inseguridad en el sector durante las noches."
+}
