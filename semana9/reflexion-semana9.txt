@@ -1,0 +1,20 @@
+Reflexion Semana 9
+
+Que las plataformas tecnologicas comunitarias funcionen de manera estable y segura en un
+servidor es fundamental para garantizar que los ciudadanos puedan acceder a ellas en
+cualquier momento. Si un servidor falla o se cae con frecuencia, los usuarios pierden
+confianza en la plataforma y dejan de participar, lo que afecta directamente los procesos
+comunitarios que dependen de ella.
+
+La estabilidad de un servidor depende de varios factores: un sistema operativo bien
+configurado, una aplicacion eficiente, monitoreo constante y registros de actividad
+(logs) que permitan detectar errores antes de que se conviertan en problemas mayores.
+Sin estos elementos, cualquier falla puede pasar desapercibida durante horas o dias.
+
+La seguridad es igualmente importante. Un servidor sin proteccion adecuada puede ser
+vulnerado por terceros que alteren datos, interrumpan el servicio o accedan a informacion
+privada de los participantes. Para una comunidad, esto puede significar la perdida de
+reportes, datos de contacto o incluso la exposicion de informacion sensible.
+
+En resumen, aprender a configurar y mantener un servidor de forma responsable es una
+habilidad esencial para construir plataformas digitales al servicio de la comunidad.
