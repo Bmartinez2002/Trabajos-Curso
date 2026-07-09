@@ -1,0 +1,17 @@
+Informacion del sistema — Comandos uname -a y whoami
+
+Comando: uname -a
+Este comando muestra informacion detallada sobre el sistema operativo: el nombre del
+kernel, la version, la arquitectura del procesador y la fecha de compilacion. Es util
+para saber exactamente que version de Linux se esta ejecutando en el servidor.
+
+Comando: whoami
+Este comando muestra el nombre del usuario que esta ejecutando la sesion actual en la
+terminal. Es util para verificar con que permisos se esta trabajando, especialmente para
+saber si se esta operando como usuario normal o como administrador (root).
+
+Por que es importante conocer esta informacion al administrar un servidor:
+Conocer el sistema operativo y el usuario activo es fundamental para tomar decisiones
+correctas de seguridad y configuracion. Un administrador debe saber que version del
+sistema tiene para aplicar actualizaciones de seguridad, y debe verificar los permisos
+del usuario para evitar ejecutar comandos peligrosos con privilegios innecesarios.

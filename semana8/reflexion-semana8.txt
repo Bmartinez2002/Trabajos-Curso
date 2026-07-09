@@ -1,0 +1,18 @@
+Reflexion Semana 8
+
+La seguridad digital es un pilar fundamental para cualquier plataforma tecnologica,
+especialmente cuando esta es utilizada por comunidades o procesos participativos donde
+se maneja informacion sensible de los ciudadanos. Una plataforma sin medidas de seguridad
+adecuadas puede ser vulnerable a ataques que expongan datos personales, alteren reportes
+o interrumpan el servicio, lo que afecta directamente la confianza de los usuarios.
+
+En el contexto comunitario, la seguridad es aun mas importante porque las personas que
+usan estas plataformas confian en que su informacion estara protegida. Si un sistema
+comunitario sufre una brecha de seguridad, las consecuencias pueden ir mas alla de lo
+tecnico: pueden afectar la reputacion de la iniciativa, desincentivar la participacion
+ciudadana y poner en riesgo a personas vulnerables.
+
+Practicas como el uso de contrasenas fuertes, conexiones cifradas y control de accesos
+no son opcionales sino necesarias desde el inicio del desarrollo. Aprender sobre Linux y
+seguridad digital desde etapas tempranas de formacion permite construir plataformas mas
+solidas, responsables y confiables para las comunidades que las utilizan.

@@ -1,0 +1,5 @@
+Buenas practicas de seguridad digital
+
+1. Proteger contrasenas usando combinaciones seguras de letras, numeros y simbolos.
+2. No compartir credenciales con otras personas ni guardarlas en archivos publicos.
+3. Mantener el software y los sistemas operativos siempre actualizados.
