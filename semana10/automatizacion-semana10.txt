@@ -1,0 +1,25 @@
+Diseno de automatizacion con n8n y Telegram
+=============================================
+
+Evento que activa el flujo:
+Un ciudadano envia un reporte a traves de la ruta POST /reportes del servidor.
+El Webhook de n8n recibe los datos y activa el flujo de automatizacion.
+
+Accion automatizada:
+n8n envia un mensaje al canal de Telegram del equipo coordinador para notificar
+que se ha registrado un nuevo reporte en el sistema.
+
+Mensaje que se enviaria a Telegram:
+"Nuevo reporte recibido en el sistema. Por favor revisa la plataforma para ver
+los detalles y asignar seguimiento."
+
+Informacion que NO debe enviarse por seguridad:
+- Nombres completos de los ciudadanos que reportan.
+- Numeros de documento de identidad o cedula.
+- Direcciones fisicas o de residencia.
+- Numeros de telefono o correos electronicos.
+- Claves de acceso, tokens o credenciales del sistema.
+- Cualquier dato que permita identificar personalmente al ciudadano.
+
+El mensaje de Telegram debe ser una alerta generica que invite al equipo a revisar
+el sistema, sin exponer informacion personal de los participantes.

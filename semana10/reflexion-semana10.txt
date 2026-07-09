@@ -1,0 +1,20 @@
+Reflexion Semana 10
+
+Las metodologias agiles, la automatizacion y canales como Telegram son herramientas
+que pueden transformar la manera en que una comunidad organiza sus procesos de
+participacion. Las metodologias agiles permiten dividir un proyecto grande en tareas
+pequenas y manejables, lo que facilita que equipos con pocos recursos puedan avanzar
+paso a paso sin perder el rumbo. El backlog ayuda a priorizar lo mas importante y a
+no desperdiciar esfuerzo en funcionalidades que nadie necesita todavia.
+
+La automatizacion con herramientas como n8n reduce la carga de trabajo manual y
+garantiza que las notificaciones y seguimientos ocurran de forma inmediata y consistente.
+Cuando un ciudadano registra un reporte, el equipo coordinador puede ser notificado en
+segundos sin necesidad de que nadie revise manualmente el sistema todo el tiempo.
+
+Telegram, por su parte, es una herramienta accesible que muchas personas ya usan en
+su vida cotidiana. Usarlo como canal de coordinacion comunitaria permite llegar a los
+miembros del equipo de forma rapida y sin necesidad de instalar software adicional.
+Combinando metodologias agiles, automatizacion responsable y canales accesibles, una
+comunidad puede construir soluciones tecnologicas mas organizadas, transparentes y
+sostenibles en el tiempo.

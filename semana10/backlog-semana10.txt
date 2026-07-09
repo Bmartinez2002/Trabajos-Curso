@@ -1,0 +1,19 @@
+Backlog del proyecto — Solucion comunitaria de reportes
+========================================================
+
+Historias de usuario (ordenadas de mayor a menor prioridad):
+
+1. (Alta) Como ciudadano quiero registrar una incidencia para dejar evidencia del caso
+   y que el equipo pueda darle seguimiento de forma organizada.
+
+2. (Alta) Como coordinador quiero recibir una alerta en Telegram cuando se registre un
+   nuevo reporte para poder revisar el caso con rapidez y asignar responsables.
+
+3. (Media) Como miembro del equipo quiero consultar la lista de reportes registrados
+   para hacer seguimiento del estado de cada incidencia.
+
+4. (Media) Como ciudadano quiero recibir una confirmacion de que mi reporte fue recibido
+   para saber que el sistema funciono correctamente.
+
+5. (Baja) Como coordinador quiero exportar los reportes del mes para generar un informe
+   de actividad comunitaria y compartirlo con las autoridades.

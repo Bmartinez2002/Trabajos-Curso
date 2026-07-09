@@ -1,0 +1,20 @@
+Iteracion simple — Semana 10
+==============================
+
+Tareas del backlog que haria primero:
+
+1. Registrar una incidencia (historia de usuario 1)
+2. Recibir alerta en Telegram al registrar un reporte (historia de usuario 2)
+
+Por que son las mas importantes:
+Estas dos tareas forman el nucleo del sistema. Sin la capacidad de registrar una
+incidencia, el sistema no tiene proposito. Y sin la notificacion automatica, el
+coordinador no sabria que hay nuevos reportes que atender. Juntas permiten que el
+flujo basico de participacion ciudadana funcione de extremo a extremo.
+
+Definicion de terminado:
+Una tarea se considera terminada cuando cumple estos criterios:
+1. Funciona correctamente: la ruta o funcion responde como se espera sin errores.
+2. Fue probada: se verifico manualmente que el comportamiento es el correcto.
+3. Quedo registrada en Git: se hizo commit con un mensaje claro que describe el cambio.
+4. No expone datos sensibles: no se publicaron claves, tokens ni datos personales.
