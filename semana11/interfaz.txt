@@ -1,0 +1,19 @@
+Interfaz basica — Plataforma comunitaria
+=========================================
+
+La interfaz tendria una seccion principal donde los usuarios pueden ver todas las
+causas comunitarias disponibles en forma de lista o tarjetas. Cada causa mostraria
+su titulo, descripcion breve y la cantidad de apoyos recibidos.
+
+En la parte superior habria un formulario para crear una nueva causa comunitaria.
+Este formulario incluiria campos para el titulo, la descripcion y opcionalmente
+la categoria o tipo de causa.
+
+Cada causa en la lista tendria un boton de apoyo que al presionarlo incrementa el
+contador de apoyos de esa causa. El contador se actualizaria de forma inmediata para
+que el usuario vea el resultado de su participacion.
+
+La interfaz debe ser clara, sencilla y accesible para personas con distintos niveles
+de experiencia digital. No debe mostrar informacion privada de los usuarios ni datos
+sensibles de la plataforma. El diseno priorizara la facilidad de uso y la confianza
+de los participantes.

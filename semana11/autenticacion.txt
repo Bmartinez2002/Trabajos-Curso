@@ -1,0 +1,20 @@
+Autenticacion de usuarios — Semana 11
+=======================================
+
+El login es el proceso que permite identificar a un usuario antes de darle acceso a
+ciertas funciones de la aplicacion. Cuando un usuario ingresa su nombre y contrasena,
+el sistema verifica que esos datos sean correctos y, si lo son, le otorga acceso a
+las secciones que le corresponden segun su rol.
+
+Algunas rutas deben estar protegidas porque contienen informacion privada, registros
+internos o acciones que no deberian estar disponibles para cualquier persona. Por
+ejemplo, la ruta para eliminar reportes o ver datos privados de los participantes solo
+deberia ser accesible para administradores autenticados.
+
+Informacion que no deberia exponerse publicamente:
+- Contrasenias de los usuarios
+- Documentos de identidad o cedulas
+- Numeros de telefono y direcciones
+- Tokens de sesion o claves de API
+- Datos personales de los miembros de la comunidad
+- Registros internos de actividad del sistema
